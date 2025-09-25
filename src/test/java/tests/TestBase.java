@@ -16,7 +16,7 @@ public class TestBase {
     @AfterSuite
     public void tearDown() {
         //вызов стоп
-        app.stop ();
+       // app.stop ();
     }
 
 }
